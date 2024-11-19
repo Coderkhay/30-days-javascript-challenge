@@ -1,2 +1,2 @@
 # 30-days-javascript-challenge
- Following tutorial project to gain javascript experience which will last for 30 days
+ Following tutorial project to gain some javascript experience after understanding of the fundamentals
